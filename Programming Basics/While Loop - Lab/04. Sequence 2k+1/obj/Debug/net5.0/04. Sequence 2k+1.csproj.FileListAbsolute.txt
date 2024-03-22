@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.exe
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.deps.json
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.json
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.dll
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.pdb
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.dll
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\refint\04. Sequence 2k+1.dll
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.pdb
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.genruntimeconfig.cache
+C:\Users\fiche\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\ref\04. Sequence 2k+1.dll

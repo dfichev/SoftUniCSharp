@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2. Deer of Santa/1.0.0": {
+        "runtime": {
+          "2. Deer of Santa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2. Deer of Santa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.exe
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.deps.json
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.runtimeconfig.json
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.dll
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\bin\Debug\net5.0\1. Cat Diet.pdb
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.AssemblyInfo.cs
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.dll
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\refint\1. Cat Diet.dll
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.pdb
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\1. Cat Diet.genruntimeconfig.cache
+C:\Users\fiche\source\repos\BasicsExam\1. Cat Diet\obj\Debug\net5.0\ref\1. Cat Diet.dll

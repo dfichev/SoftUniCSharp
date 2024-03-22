@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.exe
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.deps.json
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.runtimeconfig.json
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.dll
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\bin\Debug\net5.0\4. Exam.pdb
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.AssemblyInfo.cs
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.dll
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\refint\4. Exam.dll
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.pdb
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\4. Exam.genruntimeconfig.cache
+C:\Users\fiche\source\repos\BasicsExam\4. Exam\obj\Debug\net5.0\ref\4. Exam.dll

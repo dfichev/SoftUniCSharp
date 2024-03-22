@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.exe
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.deps.json
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.runtimeconfig.json
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.dll
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\bin\Debug\net5.0\6. Multiply Table.pdb
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.AssemblyInfo.cs
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.dll
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\refint\6. Multiply Table.dll
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.pdb
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\6. Multiply Table.genruntimeconfig.cache
+C:\Users\fiche\source\repos\BasicsExam\6. Multiply Table\obj\Debug\net5.0\ref\6. Multiply Table.dll

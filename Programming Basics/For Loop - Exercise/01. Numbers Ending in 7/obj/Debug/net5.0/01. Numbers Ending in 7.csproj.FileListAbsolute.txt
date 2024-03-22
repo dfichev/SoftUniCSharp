@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\refint\01. Numbers Ending in 7.dll
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\fiche\source\repos\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll

@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.exe
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.deps.json
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.runtimeconfig.json
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.dll
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\bin\Debug\net5.0\02. Hospital.pdb
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.AssemblyInfo.cs
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.dll
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\refint\02. Hospital.dll
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.pdb
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\02. Hospital.genruntimeconfig.cache
+C:\Users\fiche\source\repos\For-Loop - More Exercises\02. Hospital\obj\Debug\net5.0\ref\02. Hospital.dll
