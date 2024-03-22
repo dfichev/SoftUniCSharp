@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.exe
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.deps.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\bin\Debug\net5.0\4. Personal Titles.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\refint\4. Personal Titles.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\4. Personal Titles.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\4. Personal Titles\obj\Debug\net5.0\ref\4. Personal Titles.dll

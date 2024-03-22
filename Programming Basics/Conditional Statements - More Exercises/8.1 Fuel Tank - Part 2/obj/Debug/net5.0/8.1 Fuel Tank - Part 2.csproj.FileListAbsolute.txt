@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.exe
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\bin\Debug\net5.0\8.1 Fuel Tank - Part 2.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\refint\8.1 Fuel Tank - Part 2.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\8.1 Fuel Tank - Part 2.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\8.1 Fuel Tank - Part 2\obj\Debug\net5.0\ref\8.1 Fuel Tank - Part 2.dll

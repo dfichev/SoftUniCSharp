@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.exe
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\bin\Debug\net5.0\5. Pets.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\refint\5. Pets.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\5. Pets.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\5. Pets\obj\Debug\net5.0\ref\5. Pets.dll

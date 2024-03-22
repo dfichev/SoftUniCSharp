@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.exe
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.deps.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.runtimeconfig.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\bin\Debug\net5.0\9. Fish Tank.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.AssemblyInfo.cs
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\refint\9. Fish Tank.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\9. Fish Tank.genruntimeconfig.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\9. Fish Tank\obj\Debug\net5.0\ref\9. Fish Tank.dll

@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.exe
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.deps.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.runtimeconfig.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\bin\Debug\net5.0\8. Basketball Equipment.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.AssemblyInfo.cs
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\refint\8. Basketball Equipment.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\8. Basketball Equipment.genruntimeconfig.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\8. Basketball Equipment\obj\Debug\net5.0\ref\8. Basketball Equipment.dll

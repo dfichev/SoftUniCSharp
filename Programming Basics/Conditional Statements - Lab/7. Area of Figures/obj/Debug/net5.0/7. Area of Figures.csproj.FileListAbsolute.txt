@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.exe
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\bin\Debug\net5.0\7. Area of Figures.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\refint\7. Area of Figures.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\7. Area of Figures.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\7. Area of Figures\obj\Debug\net5.0\ref\7. Area of Figures.dll

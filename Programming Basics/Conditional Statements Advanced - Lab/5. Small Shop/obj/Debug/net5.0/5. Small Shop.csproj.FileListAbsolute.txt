@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.exe
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.deps.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\bin\Debug\net5.0\5. Small Shop.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\refint\5. Small Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\5. Small Shop.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\5. Small Shop\obj\Debug\net5.0\ref\5. Small Shop.dll

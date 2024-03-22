@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.exe
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\bin\Debug\net5.0\6. Flower Shop.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\refint\6. Flower Shop.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\6. Flower Shop.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\6. Flower Shop\obj\Debug\net5.0\ref\6. Flower Shop.dll

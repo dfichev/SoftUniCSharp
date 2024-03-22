@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.AssemblyInfo.cs
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.exe
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.deps.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.runtimeconfig.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\bin\Debug\net5.0\3. Deposit Calculator.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\refint\3. Deposit Calculator.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\3. Deposit Calculator.genruntimeconfig.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\3. Deposit Calculator\obj\Debug\net5.0\ref\3. Deposit Calculator.dll

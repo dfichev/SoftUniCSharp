@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.exe
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\bin\Debug\net5.0\4. Transport Price.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\refint\4. Transport Price.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\4. Transport Price.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\4. Transport Price\obj\Debug\net5.0\ref\4. Transport Price.dll

@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.exe
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.deps.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.runtimeconfig.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\bin\Debug\net5.0\5. Supplies for School.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.AssemblyInfo.cs
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\refint\5. Supplies for School.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\5. Supplies for School.genruntimeconfig.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\5. Supplies for School\obj\Debug\net5.0\ref\5. Supplies for School.dll

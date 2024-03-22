@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.exe
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\bin\Debug\net5.0\3. Time + 15 Minutes.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\refint\3. Time + 15 Minutes.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\3. Time + 15 Minutes.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\3. Time + 15 Minutes\obj\Debug\net5.0\ref\3. Time + 15 Minutes.dll

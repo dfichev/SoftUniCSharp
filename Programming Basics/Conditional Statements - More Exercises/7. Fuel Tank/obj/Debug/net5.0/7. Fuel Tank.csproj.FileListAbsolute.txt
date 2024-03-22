@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.exe
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\bin\Debug\net5.0\7. Fuel Tank.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\refint\7. Fuel Tank.dll
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.pdb
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\7. Fuel Tank.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - More Exercises\7. Fuel Tank\obj\Debug\net5.0\ref\7. Fuel Tank.dll

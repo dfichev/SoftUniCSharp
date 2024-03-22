@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.exe
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\bin\Debug\net5.0\6. World Swimming Record.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\refint\6. World Swimming Record.dll
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\6. World Swimming Record.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Exercise\6. World Swimming Record\obj\Debug\net5.0\ref\6. World Swimming Record.dll

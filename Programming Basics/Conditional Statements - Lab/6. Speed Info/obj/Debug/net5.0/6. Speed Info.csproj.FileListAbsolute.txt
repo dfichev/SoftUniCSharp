@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.exe
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\bin\Debug\net5.0\6. Speed Info.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\refint\6. Speed Info.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\6. Speed Info.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\6. Speed Info\obj\Debug\net5.0\ref\6. Speed Info.dll

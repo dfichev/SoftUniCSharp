@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.exe
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\bin\Debug\net5.0\2. Greater Number.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\refint\2. Greater Number.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\2. Greater Number.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\2. Greater Number\obj\Debug\net5.0\ref\2. Greater Number.dll

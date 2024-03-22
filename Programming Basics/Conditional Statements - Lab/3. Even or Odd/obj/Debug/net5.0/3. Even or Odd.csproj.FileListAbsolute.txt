@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.exe
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.deps.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\bin\Debug\net5.0\3. Even or Odd.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\refint\3. Even or Odd.dll
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.pdb
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\3. Even or Odd.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements - Lab\3. Even or Odd\obj\Debug\net5.0\ref\3. Even or Odd.dll

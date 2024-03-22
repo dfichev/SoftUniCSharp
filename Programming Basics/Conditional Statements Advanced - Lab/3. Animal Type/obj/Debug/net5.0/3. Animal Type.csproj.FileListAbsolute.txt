@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.exe
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.deps.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.runtimeconfig.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\bin\Debug\net5.0\3. Animal Type.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.AssemblyInfo.cs
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\refint\3. Animal Type.dll
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.pdb
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\3. Animal Type.genruntimeconfig.cache
+C:\Users\fiche\source\repos\Conditional Statements Advanced - Lab\3. Animal Type\obj\Debug\net5.0\ref\3. Animal Type.dll

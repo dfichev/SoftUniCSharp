@@ -1,0 +1,16 @@
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.exe
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.deps.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.runtimeconfig.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.runtimeconfig.dev.json
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\bin\Debug\net5.0\7. Food Delivery.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.csproj.AssemblyReference.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.AssemblyInfo.cs
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\refint\7. Food Delivery.dll
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.pdb
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\7. Food Delivery.genruntimeconfig.cache
+C:\Users\fiche\source\repos\First Steps In Coding - Lab\7. Food Delivery\obj\Debug\net5.0\ref\7. Food Delivery.dll
